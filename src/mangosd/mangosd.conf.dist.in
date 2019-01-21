@@ -3,7 +3,7 @@
 #####################################
 
 [MangosdConf]
-ConfVersion=2018092101
+ConfVersion=2019012101
 
 ###################################################################################################################
 # CONNECTIONS AND DIRECTORIES
@@ -62,7 +62,7 @@ ConfVersion=2018092101
 RealmID = 1
 DataDir = "."
 LogsDir = ""
-LoginDatabaseInfo     = "127.0.0.1;3306;mangos;mangos;classicrealmd"
+LoginDatabaseInfo     = "127.0.0.1;3306;mangos;mangos;realmd"
 WorldDatabaseInfo     = "127.0.0.1;3306;mangos;mangos;classicmangos"
 CharacterDatabaseInfo = "127.0.0.1;3306;mangos;mangos;classiccharacters"
 LoginDatabaseConnections = 1
